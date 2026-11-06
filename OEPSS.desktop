@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=OEPSS
+Comment=EPSS exploit prioritizer — FIRST EPSS, CISA KEV, CVSS, SLA buckets, exposure, history
+Exec=OEPSS
+Icon=/usr/share/icons/Owl.png
+Terminal=true
+Categories=ORecon;
+Keywords=OEPSS;owlsec;EPSS;KEV;CVE;vulnerability;
